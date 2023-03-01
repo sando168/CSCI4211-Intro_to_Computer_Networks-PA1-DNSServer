@@ -1,4 +1,4 @@
-## DNS Server Code
+# DNS Server Code
 
 Rigo Sandoval, CSCI4211S23, 3/1/2023
 Java, DNSServer, DNSServer.class
